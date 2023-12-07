@@ -1,0 +1,340 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{ 
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+.cover{
+    background-image:url(photo/pablo-merchan-montes-Orz90t6o0e4-unsplash.jpg);
+    width: 1300px;
+    height: 800px;
+    margin: auto;
+}
+.cover1 p{
+    font-size: 70px;
+    color:orange;
+    font-weight: bold;
+    padding:240px 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.manu{
+    margin: auto;
+    padding-top: 180px;
+    padding-left: 250px;
+}
+.manu ul{
+    list-style: none;
+    padding-top:10px ;
+}
+.manu ul li{
+    float: left;
+}
+.manu ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color:black;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+.manu ul li:hover a{
+    background-color:rgba(255, 166, 0, 0.527);
+    color:black;
+}
+.head{
+    background-color: white;
+    height: 200px;
+    width: 1300px;
+    margin: auto;
+}
+.head{
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+    padding-top:100px;
+}
+.head pre{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    padding-top: 15px;
+}
+.discover{
+    background-color: blue;
+    height: 500px;
+    width: 1300px;
+    margin:auto;
+}
+.discover1{
+    background-color: white;
+    height: 500px;
+    width: 800px;
+    float: left;
+}
+.discover1 img{
+    padding-top:50px;
+    padding-left:90px;
+    height: 350px;
+    width: 300px;
+    float: left;
+}
+.discover2{
+    background-color:white; 
+    height:500px ;
+    width: 500px;
+    float: left;
+}
+.discover2 p{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+    padding-top: 100px;
+    font-weight: bold;
+}
+.discover2 pre{
+    text-align: center;
+    color: black;
+    font-size: 17px;
+    padding-top: 100px; 
+}
+.course{
+    background-image: url(photo/megan-thomas-xMh_ww8HN_Q-unsplash.jpg);
+    width: 1300px;
+    height: 700px;
+    margin: auto;
+}
+.course p{
+    text-align: center;
+    font-size: 65px;
+    padding-top:300px ;
+    color: white;
+    font-weight:bold ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.list{
+    background-color: aquamarine;
+    height: 1000px;
+    width: 1300px;
+    margin: auto;
+}
+.list1{
+    background-color:white;
+    height:1000px;
+    width: 650px;
+    float: left;
+}
+.list1 p{
+    font-size: 50px;
+    color: orange;
+    font-weight: bold;
+    padding-top: 80px;
+    padding-left: 5px;
+}
+.list1 ul{
+    list-style: none; 
+    font-size:24px;  
+    font-weight: bold;
+    padding-top: 30px;
+    padding-left: 5px;
+}
+.list1 ul li{
+    padding-top: 30px;
+}
+.list1 pre{
+   padding: 3px;
+   font-size:15px;
+   padding-left: 5px;
+}
+.list1 ol{
+    list-style: none; 
+    font-size:24px;  
+    font-weight: bold;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+.list1 ol li{
+    padding-top: 30px;
+}
+
+.list2{
+    background-color:white;
+    height:1000px;
+    width: 650px;
+    float: left;
+}
+.list2 p{
+    font-size: 50px;
+    color:orange;
+    font-weight: bold;
+    padding-top: 150px;
+}
+.list2 ul{
+    list-style: none; 
+    font-size:24px;  
+    font-weight: bold;
+    padding-top: 50px;
+}
+.list2 ul li{
+    padding-top: 30px;
+}
+.list2 pre{
+   padding: 3px;
+   font-size:15px;
+}
+
+.deliciusup{
+    background-color: aqua;
+    height: 300px;
+    width: 1300px;
+    margin:auto;
+}
+.deliciusup img{
+    height: 300px;
+    width: 325px;
+    float: left;
+}
+.delicius{
+    background-image: url(photo/delicius\ cover.jpg);
+    width:1300px;
+    height: 700px;
+    margin: auto;
+}
+.delicius p{
+    font-size: 65px;
+    padding:300px 60px;
+    color:white;
+    font-weight:bold ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.signature{
+    background-color: blue;
+    height: 600px;
+    width: 1300px;
+    margin:auto;
+}
+.signature1{
+    background-color: white;
+    height: 600px;
+    width: 800px;
+    float: left;
+}
+.signature1 img{
+    padding-left:90px ;
+    padding-top: 50px;
+    height: 230px;
+    width: 300px;
+    float: left;
+}
+.signature2{
+    background-color:white; 
+    height:600px ;
+    width: 500px;
+    float: left;
+}
+.signature2 p{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+    padding-top: 100px;
+    font-weight: bold;
+}
+.signature2 ul{
+    list-style: none; 
+    font-size:24px;  
+    font-weight: bold;
+    padding: 50px ;
+}
+.signature pre{
+   padding: 3px;
+  font-size: 15px;
+}
+  
+.delicius{
+    background-color: blue;
+    height: 600px;
+    width: 1300px;
+    margin:auto;
+}
+.startes{
+    background-color: white;
+    height: 600px;
+    width: 1300px;
+    margin: auto;
+}
+.startes1{
+    background-color: white;
+    height: 600px;
+    width: 800px;
+    float: left;
+}
+.startes1 img{
+    padding-top:50px;
+    padding-left:90px;
+    height: 350px;
+    width: 300px;
+    float: left;
+}
+.startes2{
+    background-color:white; 
+    height:600px ;
+    width: 500px;
+    float: left;
+}
+.startes2 p{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+    padding-top: 40px;
+    font-weight: bold;
+}
+.startes2 ul{
+    list-style: none; 
+    font-size:24px;  
+    font-weight: bold;
+    padding: 50px ;
+}
+.startes pre{
+    padding: 3px;
+   font-size: 15px;
+ }
+.resturent{
+    background-color: blue;
+    height: 500px;
+    width: 1300px;
+    margin:auto;
+}
+.resturent1{
+    background-color: white;
+    height: 500px;
+    width: 800px;
+    float: left;
+}
+.resturent1 img{
+    padding-left: 100px;
+    height: 500px;
+    width: 250px;
+    float: left;
+}
+.resturent2{
+    background-color:white; 
+    height:500px ;
+    width: 500px;
+    float: left;
+}
+.resturent2 p{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+    padding-top: 100px;
+    font-weight: bold;
+}
+.resturent2 pre{
+    text-align: center;
+    color: black;
+    font-size: 17px;
+    padding-top: 100px; 
+}
